@@ -1,0 +1,29 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+div{
+    margin: 30px 44px;
+}
+input{
+    width: 200px;
+    height:50px;
+    margin-top: 60px;
+
+}
+button{
+    padding:12px;
+    background-color: antiquewhite;
+}
+
+
+
+
+
+
+
+
+
+
+
